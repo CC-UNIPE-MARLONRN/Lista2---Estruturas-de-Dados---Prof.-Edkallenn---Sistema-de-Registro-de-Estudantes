@@ -39,7 +39,7 @@ Este sistema implementa o registro e a gestão de estudantes em uma instituiçã
 
 ## Regras de Operação
 - Não é possível adicionar notas sem que o estudante esteja cadastrado.
-- Não é possível adicionar um estudante na fila de matrícula ou no deque sem que as disciplinas ou o deque estejam criados.
+- Não é possível adicionar um estudante na fila de matrícula ou no deque sem que as disciplinas ou o estudante estejam criados.
 - As matrículas dos estudantes são geradas aleatoriamente.
 
 ## Implementação
