@@ -1,5 +1,8 @@
 # Lista2 - Estruturas de Dados - Prof. Edkallenn - Sistema de Registro de Estudantes
 
+## Enunciado das Questões
+[Enunciado das questões](https://www.notion.so/Trabalho-2-TAD-Projetos-com-listas-pilhas-filas-e-deques-159199c2e03b444cb8c529950ebcfb0e?pvs=4)
+
 ## Descrição
 Este sistema implementa o registro e a gestão de estudantes em uma instituição de ensino, utilizando diferentes estruturas de dados para gerenciar listas de estudantes, histórico de notas, filas de matrícula em disciplinas e deque de espera para atendimento. O sistema possui um menu interativo com várias opções de gerenciamento.
 
